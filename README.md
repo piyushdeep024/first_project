@@ -6,7 +6,7 @@
 **Institution:** Vellore Institute of Technology (VIT) Bhopal  
 **Course:** CSE Project  
 **Professor:** Shahana Gajala Qureshi  
-**Date:** November 2025
+**Date:** 23 November 2025
 
 ---
 
@@ -538,7 +538,7 @@ The project successfully implements a secure, user-friendly banking application 
 **Institution:** Vellore Institute of Technology (VIT) Bhopal  
 **Course:** CSE Project  
 **Submitted To:** Prof. Shahana Gajala Qureshi  
-**Date:** November 2025
+**Date: 23 November 2025
 
 
 **Note:** This project has been completed as per academic guidelines and submitted for evaluation.
