@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a **Simple Banking System** with PIN authentication in Python. It simulates basic banking operations including balance checking, deposits, withdrawals, and secure access through a PIN verification system. The program is designed as an introductory project to demonstrate fundamental programming concepts including functions, conditionals, loops, and user input/output handling.
 
@@ -42,14 +42,14 @@ To create a functional banking application that:
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Banking Functions
-- **🔐 PIN Authentication:** Secure login with 3-attempt limit
-- **👁️ Show Balance:** Display current account balance in formatted currency
-- **💰 Deposit:** Add funds to the account with validation
-- **💸 Withdraw:** Remove funds from the account with sufficient fund checks
-- **🚪 Logout:** Securely exit the banking session
+- ** PIN Authentication:** Secure login with 3-attempt limit
+- ** Show Balance:** Display current account balance in formatted currency
+- ** Deposit:** Add funds to the account with validation
+- ** Withdraw:** Remove funds from the account with sufficient fund checks
+- ** Logout:** Securely exit the banking session
 
 ### Security Features
 - PIN verification before accessing any banking functions
@@ -65,7 +65,7 @@ To create a functional banking application that:
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 **Software Requirements:**
 - Python 3.7 or higher
@@ -81,7 +81,7 @@ To create a functional banking application that:
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Step 1: Verify Python Installation
 ```bash
@@ -104,7 +104,7 @@ python banking_system.py
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Initial Access
 1. Run the program using `python banking_system.py`
@@ -133,7 +133,7 @@ python banking_system.py
 
 ---
 
-## 🏗️ Program Structure
+##  Program Structure
 
 ```
 banking_system.py
@@ -172,7 +172,7 @@ banking_system.py
 
 ---
 
-## 🧩 Pseudocode
+##  Pseudocode
 
 ### verify_pin() Function
 ```
@@ -288,7 +288,7 @@ END FUNCTION
 
 ---
 
-## 📊 Flowchart
+##  Flowchart
 
 ```
                     ┌──────────────────┐
@@ -357,7 +357,7 @@ END FUNCTION
 
 ---
 
-## 💻 Code Explanation
+##  Code Explanation
 
 ### Key Components
 
@@ -392,7 +392,7 @@ END FUNCTION
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Screenshots are added here showing:
 - PIN entry screen
@@ -411,7 +411,7 @@ Screenshots are added here showing:
 
 ---
 
-## ✅ Testing & Validation
+##  Testing & Validation
 
 ### Test Case 1: PIN Authentication
 ```
@@ -473,7 +473,7 @@ Status: ✓ PASS
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 1. **Persistent Storage**
    - Save transactions to a file
@@ -509,7 +509,7 @@ Status: ✓ PASS
 
 ---
 
-## 📝 Conclusion
+##  Conclusion
 
 This Banking System project demonstrates fundamental programming concepts in Python including:
 - **Functions:** Modular code organization
@@ -523,7 +523,7 @@ The project successfully implements a secure, user-friendly banking application 
 
 ---
 
-## 📚 References
+##  References
 
 - Python Official Documentation: https://www.python.org/
 - VIT Bhopal CSE Guidelines
@@ -531,7 +531,7 @@ The project successfully implements a secure, user-friendly banking application 
 
 ---
 
-## 👨‍💻 Author Information
+##  Author Information
 
 **Student:** Piyush Deep  
 **Registration Number:** 25BAI11280  
